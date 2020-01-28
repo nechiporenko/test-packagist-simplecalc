@@ -1,0 +1,20 @@
+{
+    "name": "nechiporenko/test-packagist-simplecalc",
+    "description": "Simple calculator example",
+    "type": "library",
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Classes\\": "classes/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "nechiporenko",
+            "email": "s.nechiporenko@gmail.com"
+        }
+    ]
+}

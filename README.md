@@ -32,7 +32,8 @@ PHP 7.4 and above.
 
 Once the extension is installed, use the library in client code:
 
-```use Nechiporenko\Classes\App;
+```
+        use Nechiporenko\Classes\App;
 
 	$app = new App();
 

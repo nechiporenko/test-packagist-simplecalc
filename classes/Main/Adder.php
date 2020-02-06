@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Classes\Main;
+namespace Nechiporenko\Classes\Main;
 
 /*
  * Интерфейс, определяющий функционал очень простой операции - сложения двух целых чисел

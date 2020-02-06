@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Classes;
+namespace Nechiporenko\Classes;
 
-use Classes\Main\SimpleCalc;
+use Nechiporenko\Classes\Main\SimpleCalc;
 
 /*
  * Класс-фасад приложения

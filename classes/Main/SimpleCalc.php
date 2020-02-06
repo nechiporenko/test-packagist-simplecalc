@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Classes\Main;
+namespace Nechiporenko\Classes\Main;
 
-use Classes\Main\{Adder, Calculator};
+use Nechiporenko\Classes\Main\{Adder, Calculator};
 
 /*
  * Класс, в котором реализован интерфейс сложения 2 целых чисел

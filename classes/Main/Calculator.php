@@ -2,9 +2,9 @@
 
 declare(strict_types=1);
 
-namespace Classes\Main;
+namespace Nechiporenko\Classes\Main;
 
-use Classes\Main\Adder;
+use Nechiporenko\Classes\Main\Adder;
 
 /*
  * Абстрактный класс, в котором объявлен метод для реализации интерфейса сложения 2 чисел,

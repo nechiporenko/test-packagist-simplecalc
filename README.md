@@ -21,14 +21,9 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist nechiporenko/test-packagist-simplecalc "~1.0.0"
+composer require  nechiporenko/test-packagist-simplecalc
 ```
 
-or add the following line to the require section of your `composer.json` file:
-
-```
-"nechiporenko/test-packagist-simplecalc": "~1.0.0"
-```
 ## Requirements
 
 PHP 7.4 and above.
